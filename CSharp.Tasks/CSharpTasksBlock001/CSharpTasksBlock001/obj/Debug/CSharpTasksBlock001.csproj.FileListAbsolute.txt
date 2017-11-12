@@ -1,0 +1,7 @@
+C:\Users\Андрей\source\CSharp.Tasks\CSharpTasksBlock001\CSharpTasksBlock001\bin\Debug\CSharpTasksBlock001.exe.config
+C:\Users\Андрей\source\CSharp.Tasks\CSharpTasksBlock001\CSharpTasksBlock001\bin\Debug\CSharpTasksBlock001.exe
+C:\Users\Андрей\source\CSharp.Tasks\CSharpTasksBlock001\CSharpTasksBlock001\bin\Debug\CSharpTasksBlock001.pdb
+C:\Users\Андрей\source\CSharp.Tasks\CSharpTasksBlock001\CSharpTasksBlock001\obj\Debug\CSharpTasksBlock001.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\source\CSharp.Tasks\CSharpTasksBlock001\CSharpTasksBlock001\obj\Debug\CSharpTasksBlock001.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\CSharp.Tasks\CSharpTasksBlock001\CSharpTasksBlock001\obj\Debug\CSharpTasksBlock001.exe
+C:\Users\Андрей\source\CSharp.Tasks\CSharpTasksBlock001\CSharpTasksBlock001\obj\Debug\CSharpTasksBlock001.pdb
